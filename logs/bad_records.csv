@@ -1,0 +1,229 @@
+﻿source,record_id,reason
+customers,13,дубль email: nan
+customers,36,дубль email: nan
+customers,62,дубль email: nan
+customers,77,дубль email: nan
+customers,103,дубль email: nan
+customers,110,дубль email: nan
+customers,141,дубль email: nan
+customers,167,дубль email: nan
+customers,202,дубль email: nan
+customers,222,дубль email: nan
+customers,252,дубль email: nan
+customers,268,дубль email: nan
+customers,301,дубль email: nan
+customers,321,дубль email: nan
+customers,351,дубль email: nan
+customers,353,дубль email: nan
+customers,398,дубль email: nan
+customers,403,дубль email: nan
+customers,429,дубль email: nan
+customers,441,дубль email: nan
+customers,473,дубль email: nan
+customers,484,дубль email: nan
+customers,506,дубль email: nan
+customers,529,дубль email: nan
+customers,537,дубль email: nan
+customers,548,дубль email: nan
+customers,638,дубль email: nan
+customers,696,дубль email: nan
+customers,700,дубль email: nan
+customers,1,дубль email: mechislav_37@hotmail.com
+customers,2,дубль email: serafim_1986@gmail.com
+customers,3,дубль email: fharitonova@gmail.com
+customers,4,дубль email: odintsovgerman@ignatev.biz
+customers,5,дубль email: selivan_1979@ao.ru
+customers,6,дубль email: aksenovkazimir@rao.biz
+customers,7,дубль email: belovemmanuil@hotmail.com
+customers,8,дубль email: nonna_92@hotmail.com
+customers,9,дубль email: lavrnekrasov@yahoo.com
+customers,10,дубль email: elise1970@gmail.com
+customers,11,дубль email: silagushchin@mail.ru
+customers,12,дубль email: nan
+customers,13,дубль email: nan
+customers,14,дубль email: artem1973@ooo.ru
+customers,15,дубль email: solovevfrol@rambler.ru
+orders,1,невалидная дата
+orders,67,невалидная дата
+orders,113,невалидная дата
+orders,140,невалидная дата
+orders,147,невалидная дата
+orders,191,невалидная дата
+orders,202,невалидная дата
+orders,210,невалидная дата
+orders,233,невалидная дата
+orders,270,невалидная дата
+orders,281,невалидная дата
+orders,301,невалидная дата
+orders,366,невалидная дата
+orders,394,невалидная дата
+orders,400,невалидная дата
+orders,493,невалидная дата
+orders,550,невалидная дата
+orders,581,невалидная дата
+orders,591,невалидная дата
+orders,597,невалидная дата
+orders,616,невалидная дата
+orders,623,невалидная дата
+orders,666,невалидная дата
+orders,674,невалидная дата
+orders,743,невалидная дата
+orders,794,невалидная дата
+orders,873,невалидная дата
+orders,962,невалидная дата
+orders,1028,невалидная дата
+orders,1046,невалидная дата
+orders,1111,невалидная дата
+orders,1137,невалидная дата
+orders,1162,невалидная дата
+orders,1181,невалидная дата
+orders,1,невалидная дата
+orders,10,пустой customer_id
+orders,24,пустой customer_id
+orders,25,пустой customer_id
+orders,44,пустой customer_id
+orders,73,пустой customer_id
+orders,77,пустой customer_id
+orders,149,пустой customer_id
+orders,154,пустой customer_id
+orders,159,пустой customer_id
+orders,192,пустой customer_id
+orders,207,пустой customer_id
+orders,250,пустой customer_id
+orders,282,пустой customer_id
+orders,292,пустой customer_id
+orders,297,пустой customer_id
+orders,298,пустой customer_id
+orders,401,пустой customer_id
+orders,430,пустой customer_id
+orders,471,пустой customer_id
+orders,486,пустой customer_id
+orders,500,пустой customer_id
+orders,511,пустой customer_id
+orders,539,пустой customer_id
+orders,568,пустой customer_id
+orders,595,пустой customer_id
+orders,596,пустой customer_id
+orders,620,пустой customer_id
+orders,625,пустой customer_id
+orders,641,пустой customer_id
+orders,681,пустой customer_id
+orders,704,пустой customer_id
+orders,727,пустой customer_id
+orders,730,пустой customer_id
+orders,744,пустой customer_id
+orders,774,пустой customer_id
+orders,785,пустой customer_id
+orders,811,пустой customer_id
+orders,821,пустой customer_id
+orders,824,пустой customer_id
+orders,830,пустой customer_id
+orders,834,пустой customer_id
+orders,882,пустой customer_id
+orders,932,пустой customer_id
+orders,936,пустой customer_id
+orders,1037,пустой customer_id
+orders,1063,пустой customer_id
+orders,1105,пустой customer_id
+orders,1110,пустой customer_id
+orders,1114,пустой customer_id
+orders,1127,пустой customer_id
+orders,1165,пустой customer_id
+orders,1179,пустой customer_id
+orders,1196,пустой customer_id
+orders,10,пустой customer_id
+products,1,дубль product_id
+products,2,дубль product_id
+products,3,дубль product_id
+products,4,дубль product_id
+products,5,дубль product_id
+products,6,дубль product_id
+products,7,дубль product_id
+products,8,дубль product_id
+products,9,дубль product_id
+products,10,дубль product_id
+payments,1,некорректная сумма (error_amount)
+payments,7,некорректная сумма (error_amount)
+payments,14,некорректная сумма (error_amount)
+payments,42,некорректная сумма (error_amount)
+payments,117,некорректная сумма (error_amount)
+payments,141,некорректная сумма (error_amount)
+payments,179,некорректная сумма (error_amount)
+payments,213,некорректная сумма (error_amount)
+payments,225,некорректная сумма (error_amount)
+payments,232,некорректная сумма (error_amount)
+payments,240,некорректная сумма (error_amount)
+payments,296,некорректная сумма (error_amount)
+payments,359,некорректная сумма (error_amount)
+payments,422,некорректная сумма (error_amount)
+payments,500,некорректная сумма (error_amount)
+payments,563,некорректная сумма (error_amount)
+payments,565,некорректная сумма (error_amount)
+payments,610,некорректная сумма (error_amount)
+payments,682,некорректная сумма (error_amount)
+payments,686,некорректная сумма (error_amount)
+payments,744,некорректная сумма (error_amount)
+payments,768,некорректная сумма (error_amount)
+payments,808,некорректная сумма (error_amount)
+payments,834,некорректная сумма (error_amount)
+payments,856,некорректная сумма (error_amount)
+payments,860,некорректная сумма (error_amount)
+payments,865,некорректная сумма (error_amount)
+payments,870,некорректная сумма (error_amount)
+payments,928,некорректная сумма (error_amount)
+payments,937,некорректная сумма (error_amount)
+payments,957,некорректная сумма (error_amount)
+payments,966,некорректная сумма (error_amount)
+payments,1,некорректная сумма (error_amount)
+payments,7,некорректная сумма (error_amount)
+events,16,невалидный timestamp
+events,73,невалидный timestamp
+events,120,невалидный timestamp
+events,146,невалидный timestamp
+events,152,невалидный timestamp
+events,185,невалидный timestamp
+events,225,невалидный timestamp
+events,245,невалидный timestamp
+events,267,невалидный timestamp
+events,269,невалидный timestamp
+events,305,невалидный timestamp
+events,338,невалидный timestamp
+events,401,невалидный timestamp
+events,417,невалидный timestamp
+events,423,невалидный timestamp
+events,437,невалидный timestamp
+events,444,невалидный timestamp
+events,452,невалидный timestamp
+events,505,невалидный timestamp
+events,508,невалидный timestamp
+events,513,невалидный timestamp
+events,543,невалидный timestamp
+events,561,невалидный timestamp
+events,581,невалидный timestamp
+events,604,невалидный timestamp
+events,617,невалидный timestamp
+events,644,невалидный timestamp
+events,665,невалидный timestamp
+events,675,невалидный timestamp
+events,862,невалидный timestamp
+events,951,невалидный timestamp
+events,962,невалидный timestamp
+events,1019,невалидный timestamp
+events,1067,невалидный timestamp
+events,1081,невалидный timestamp
+events,1115,невалидный timestamp
+events,1120,невалидный timestamp
+events,1149,невалидный timestamp
+events,1174,невалидный timestamp
+events,1193,невалидный timestamp
+events,1211,невалидный timestamp
+events,1220,невалидный timestamp
+events,1235,невалидный timestamp
+events,1362,невалидный timestamp
+events,1412,невалидный timestamp
+events,1443,невалидный timestamp
+events,1448,невалидный timestamp
+events,1469,невалидный timestamp
+events,1475,невалидный timestamp
+events,1498,невалидный timestamp
+events,BAD_ID,невалидный timestamp
